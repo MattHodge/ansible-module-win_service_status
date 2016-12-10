@@ -1,5 +1,7 @@
 # Ansible Module - win_service_status
 
+This is an Ansible Windows module to get the status of a service.
+
 <!-- TOC depthFrom:2 -->
 
 - [Usage](#usage)
@@ -7,8 +9,6 @@
     - [On a service that doesn't exists](#on-a-service-that-doesnt-exists)
 
 <!-- /TOC -->
-
-This is an Ansible Windows module to get the status of a service.
 
 ## Usage
 The following are some usage examples.
